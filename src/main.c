@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "../lib/glad/include/glad/glad.h"
 //#include <glad/glad.h>
-#include <GLFW/glfw3.h>
+#include "../lib/glfw/include/GLFW/glfw3.h"
 
 #include "callbacks.h"
 
