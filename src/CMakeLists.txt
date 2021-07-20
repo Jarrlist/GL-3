@@ -1,0 +1,1 @@
+add_library(src main.c callbacks.h)
